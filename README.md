@@ -1,2 +1,1 @@
-# Dino
-Dino game using javascript
+Create Dino game using JavaScript
